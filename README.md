@@ -3,8 +3,6 @@
 ![screenshot](./doc/screenshot.png)
 
 ## 🚀 Getting Started
-Clone and execute the principal file
-
 You will need:
 
 - [Python3](https://www.python.org/downloads/).
