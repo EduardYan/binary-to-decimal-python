@@ -33,4 +33,4 @@ python3 main.py
 
 ## 🔑 License
 
-- [MIT](https://github.com/EduardYan/binary-to-decimal-python/blod/main/LICENSE).
+- [MIT](https://github.com/EduardYan/binary-to-decimal-python/blob/main/LICENSE).
